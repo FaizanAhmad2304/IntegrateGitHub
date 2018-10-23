@@ -41,6 +41,12 @@ namespace StackTrace
         {
 
         }
+        
+        [TestMethod]
+        public void TestMethodPass3()
+        {
+
+        }
 
     }
 }
